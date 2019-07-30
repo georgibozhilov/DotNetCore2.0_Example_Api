@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNC.Example.API", "DNC.Example.API\DNC.Example.API.csproj", "{395DBD70-DD95-437B-A83E-16275B2536F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNC.Example.DAL", "DNC.Example.DAL\DNC.Example.DAL.csproj", "{45CA0D74-309C-46D1-BFE1-7860F3E85072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNC.Example.DAL", "DNC.Example.DAL\DNC.Example.DAL.csproj", "{45CA0D74-309C-46D1-BFE1-7860F3E85072}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
